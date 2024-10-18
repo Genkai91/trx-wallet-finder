@@ -16,8 +16,8 @@ First install this package's:
 ```
 pip install tronpy
 pip install tronapi
-git clone https://github.com/l3ktu/trx-finder/
-cd crypto-hunter
+https://github.com/Genkai91/trx-wallet-finder/
+cd trx-wallet-finder
 ```
 After:
 ```
